@@ -1,4 +1,4 @@
-## These functions aims to cache the inverse of a matrix
+## These functions aim to cache the inverse of a matrix
 
 ## Makechachematrix creates a matrix that contains a function to set the value of the matrix,
 ## to get the value of the matrix; to set the value of the inverse, and to get the value of 
